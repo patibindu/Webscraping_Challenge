@@ -37,17 +37,6 @@ Getting Started by installing ChromeDriver
 Install Splinter
 
 
-In the Challenge Assistance Video, I also show that I added webdriver_manager to my dev environment
-
-
-
-Process:
-
-
-Challenge Assistance Video: Module 11 Part 1 & Part 2
-
-
-
 Part 1: Scrape Titles and Preview Text from Mars News
 
 
@@ -129,23 +118,3 @@ Visually estimate the result by plotting the daily minimum temperature.
 
 Export the DataFrame to a CSV file.
 
-
-
-
-
-References
-
-
-Mozilla HTML Tutorials
-
-
-Mozilla HTML Element documentation
-
-
-Beautiful Soup Documentation
-
-
-Mozilla CSS Tutorial
-
-
-Splinter Documentation
